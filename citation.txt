@@ -1,0 +1,8 @@
+@article{REPO360,
+    author = "Ju, Hyungsik and Zhang, Rui",
+    journal = "IEEE Transactions on Wireless Communications",
+    number = "1",
+    title = "{Throughput Maximization in Wireless Powered Communication Networks}",
+    volume = "13",
+    year = "2014"
+}
